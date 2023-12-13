@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    background-color: #cf88bf
+}
+.first{
+  display: inline-block;
+  background-color: rgb(227, 100, 20);
+  border-style: solid;
+}
+.white,.rose{
+float: left;
+height: 150px;
+width: 150px;
+padding: 5px 5px 5px 5px;
+}
+.secound{
+    font-size: large;
+    padding-left: 10px;
+}
+.pink{
+    float: right;
+    height: 150px;
+    width: 150px;
+    padding: 5px 5px 5px 5px;
+    }
+   
+.third{
+    display: inline-block;
+    background-color: rgb(237, 43, 42);
+    border-style: solid;
+}
+.forth{
+    display: inline-block;
+    background-color: rgb(20, 227, 99);
+    border-style: solid;
+}
